@@ -1,0 +1,15 @@
+C:\Class\Piano\Piano\bin\Debug\Piano.exe.config
+C:\Class\Piano\Piano\bin\Debug\Piano.exe
+C:\Class\Piano\Piano\bin\Debug\Piano.pdb
+C:\Class\Piano\Piano\obj\Debug\Piano.csprojResolveAssemblyReference.cache
+C:\Class\Piano\Piano\obj\Debug\Piano.Properties.Resources.resources
+C:\Class\Piano\Piano\obj\Debug\Piano.csproj.GenerateResource.Cache
+C:\Class\Piano\Piano\obj\Debug\Piano.exe
+C:\Class\Piano\Piano\obj\Debug\Piano.pdb
+C:\Class\Piano\Piano\obj\Debug\Piano.Piano.resources
+C:\Class\SoftwareDeveloperStuffPt.2\Piano\Piano\bin\Debug\Piano.exe.config
+C:\Class\SoftwareDeveloperStuffPt.2\Piano\Piano\obj\Debug\Piano.exe
+C:\Class\SoftwareDeveloperStuffPt.2\Piano\Piano\obj\Debug\Piano.pdb
+C:\GitProjects\Piano\Piano\bin\Debug\Piano.exe.config
+C:\GitProjects\Piano\Piano\obj\Debug\Piano.exe
+C:\GitProjects\Piano\Piano\obj\Debug\Piano.pdb
